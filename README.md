@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/theprincepratap/theprincepratap/refs/heads/main/banner.png" width="100%"/>
 
 <div align="center">
-<a href="[muruganantham](https://github.com/murugananthamg71-raji)" target="_blank">
+<a href="(https://github.com/murugananthamg71-raji)" target="_blank">
 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
